@@ -1,0 +1,121 @@
+# ============================================================
+# Web Scraper Configuration for Nigerian Election Analysis
+# ============================================================
+
+# --- General Settings ---
+general:
+  # How many months back to scrape (from today)
+  time_range_months: 12
+  # Maximum number of posts to collect per platform per state
+  max_posts_per_platform: 500
+  # Delay between requests (seconds) to be respectful to servers
+  request_delay: 2
+  # Number of retries on failure
+  max_retries: 3
+  # Log level: DEBUG, INFO, WARNING, ERROR
+  log_level: INFO
+
+# --- States to Scrape ---
+# All 36 Nigerian states + FCT. For demo, only Lagos and Kano are enabled.
+# Uncomment others to include them in the scraping and analysis pipeline.
+states:
+  - Lagos
+  - Kano
+  # - Abia
+  # - Adamawa
+  # - Akwa Ibom
+  # - Anambra
+  # - Bauchi
+  # - Bayelsa
+  # - Benue
+  # - Borno
+  # - Cross River
+  # - Delta
+  # - Ebonyi
+  # - Edo
+  # - Ekiti
+  # - Enugu
+  # - FCT
+  # - Gombe
+  # - Imo
+  # - Jigawa
+  # - Kaduna
+  # - Katsina
+  # - Kebbi
+  # - Kogi
+  # - Kwara
+  # - Nasarawa
+  # - Niger
+  # - Ogun
+  # - Ondo
+  # - Osun
+  # - Oyo
+  # - Plateau
+  # - Rivers
+  # - Sokoto
+  # - Taraba
+  # - Yobe
+  # - Zamfara
+
+# --- Search Keywords Template ---
+# {state} gets replaced with the actual state name at runtime
+keywords:
+  - "{state} governorship election"
+  - "{state} governor 2027"
+  - "{state} governor candidate"
+  - "election 2027 Nigeria {state}"
+  - "{state} gubernatorial"
+  - "who will be governor of {state}"
+  - "{state} election candidate"
+
+# --- API Credentials ---
+# Replace with your actual API keys. NEVER commit real keys to git.
+api_keys:
+  twitter:
+    bearer_token: "YOUR_TWITTER_BEARER_TOKEN"
+    # API v2 free tier: 500K tweets/month read
+  reddit:
+    client_id: "YOUR_REDDIT_CLIENT_ID"
+    client_secret: "YOUR_REDDIT_CLIENT_SECRET"
+    user_agent: "NigeriaElectionScraper/1.0"
+  facebook:
+    access_token: "YOUR_FACEBOOK_ACCESS_TOKEN"
+    # Note: Facebook Graph API is heavily restricted for scraping
+
+# --- Platform-Specific Settings ---
+platforms:
+  twitter:
+    enabled: true
+    max_results_per_query: 100  # X API v2 max per request
+  reddit:
+    enabled: true
+    subreddits:
+      - "Nigeria"
+      - "NigeriaNews"
+      - "Africa"
+  nairaland:
+    enabled: true
+    base_url: "https://www.nairaland.com"
+    sections:
+      - "politics"
+  facebook:
+    enabled: false  # Disabled by default due to API restrictions
+    page_ids: []    # Add specific public page IDs to scrape
+
+# --- Sentiment Analysis Settings ---
+sentiment:
+  # Model choices: "transformers", "textblob", "vader"
+  # "transformers" is most accurate but slower; "vader" is fastest but least accurate
+  model: "transformers"
+  # HuggingFace model for transformer-based sentiment
+  transformer_model: "cardiffnlp/twitter-roberta-base-sentiment-latest"
+  # Minimum confidence score to accept a sentiment label
+  confidence_threshold: 0.5
+
+# --- Storage Settings ---
+storage:
+  # Database file path
+  database: "output/data/election_data.db"
+  # Export formats
+  export_json: true
+  export_csv: true
