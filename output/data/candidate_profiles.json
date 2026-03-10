@@ -1,0 +1,6169 @@
+{
+  "Lagos": [
+    {
+      "name": "Ahmed Farouk",
+      "state": "Lagos",
+      "mention_count": 20,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.3659,
+        "positive_pct": 80.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 20.0,
+        "total_analyzed": 15
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.3659,
+          "count": 15,
+          "positive_pct": 80.0,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        }
+      ],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "dangote",
+          "count": 126
+        },
+        {
+          "theme": "petrol",
+          "count": 102
+        },
+        {
+          "theme": "god",
+          "count": 54
+        },
+        {
+          "theme": "nigerians",
+          "count": 52
+        },
+        {
+          "theme": "importation",
+          "count": 50
+        },
+        {
+          "theme": "fighting",
+          "count": 50
+        },
+        {
+          "theme": "wants",
+          "count": 42
+        },
+        {
+          "theme": "monopoly",
+          "count": 40
+        },
+        {
+          "theme": "cement",
+          "count": 40
+        },
+        {
+          "theme": "because",
+          "count": 32
+        },
+        {
+          "theme": "price",
+          "count": 30
+        },
+        {
+          "theme": "began",
+          "count": 30
+        },
+        {
+          "theme": "suspect",
+          "count": 30
+        },
+        {
+          "theme": "petroleum",
+          "count": 30
+        },
+        {
+          "theme": "nmpdra",
+          "count": 20
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "diaspora",
+            "mentions": 10,
+            "strength": "strong"
+          },
+          {
+            "category": "business",
+            "mentions": 10,
+            "strength": "strong"
+          }
+        ],
+        "regional_mentions": []
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Moses Paul",
+      "state": "Lagos",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.2811,
+        "positive_pct": 33.3,
+        "negative_pct": 0.0,
+        "neutral_pct": 66.7,
+        "total_analyzed": 9
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.2811,
+          "count": 9,
+          "positive_pct": 33.3,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "“This coming election, support us in AMAC; it will help me. Your support in AMAC is critical to our journey. I am involved and contesting the coming election as number one. When I come back, you will ...",
+          "platform": "nairaland",
+          "score": 0.8432,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "“This coming election, support us in AMAC; it will help me. Your support in AMAC is critical to our journey. I am involved and contesting the coming election as number one. When I come back, you will ...",
+          "platform": "nairaland",
+          "score": 0.8432,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "“This coming election, support us in AMAC; it will help me. Your support in AMAC is critical to our journey. I am involved and contesting the coming election as number one. When I come back, you will ...",
+          "platform": "nairaland",
+          "score": 0.8432,
+          "date": "2026-02-02 23:01:00"
+        }
+      ],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "obi",
+          "count": 44
+        },
+        {
+          "theme": "peter",
+          "count": 24
+        },
+        {
+          "theme": "into",
+          "count": 20
+        },
+        {
+          "theme": "campaign",
+          "count": 20
+        },
+        {
+          "theme": "movement",
+          "count": 20
+        },
+        {
+          "theme": "crowds",
+          "count": 16
+        },
+        {
+          "theme": "political",
+          "count": 16
+        },
+        {
+          "theme": "years",
+          "count": 12
+        },
+        {
+          "theme": "nigerians",
+          "count": 12
+        },
+        {
+          "theme": "something",
+          "count": 12
+        },
+        {
+          "theme": "message",
+          "count": 12
+        },
+        {
+          "theme": "nigerian",
+          "count": 12
+        },
+        {
+          "theme": "elections",
+          "count": 10
+        },
+        {
+          "theme": "candidate",
+          "count": 10
+        },
+        {
+          "theme": "support",
+          "count": 8
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 6,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "business",
+            "mentions": 4,
+            "strength": "strong"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 4
+          },
+          {
+            "region": "south",
+            "mentions": 4
+          },
+          {
+            "region": "east",
+            "mentions": 4
+          },
+          {
+            "region": "west",
+            "mentions": 4
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 6
+    },
+    {
+      "name": "Mr Peter Obi",
+      "state": "Lagos",
+      "mention_count": 8,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.2205,
+        "positive_pct": 25.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 75.0,
+        "total_analyzed": 12
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.2205,
+          "count": 12,
+          "positive_pct": 25.0,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "Despite all criticisms, Millions of Nigerians overwhelmingly voted & elected Mr Peter Obi as President in 2023! Imagine what would happen in 2027!",
+          "platform": "nairaland",
+          "score": 0.8818,
+          "date": "2026-02-12 12:35:00"
+        },
+        {
+          "text": "Despite all criticisms, Millions of Nigerians overwhelmingly voted & elected Mr Peter Obi as President in 2023! Imagine what would happen in 2027!",
+          "platform": "nairaland",
+          "score": 0.8818,
+          "date": "2026-02-12 12:35:00"
+        },
+        {
+          "text": "Despite all criticisms, Millions of Nigerians overwhelmingly voted & elected Mr Peter Obi as President in 2023! Imagine what would happen in 2027!",
+          "platform": "nairaland",
+          "score": 0.8818,
+          "date": "2026-02-12 12:35:00"
+        }
+      ],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "presidential",
+          "count": 10
+        },
+        {
+          "theme": "while",
+          "count": 6
+        },
+        {
+          "theme": "former",
+          "count": 6
+        },
+        {
+          "theme": "minister",
+          "count": 6
+        },
+        {
+          "theme": "mohammed",
+          "count": 6
+        },
+        {
+          "theme": "patronize",
+          "count": 4
+        },
+        {
+          "theme": "business",
+          "count": 4
+        },
+        {
+          "theme": "woman",
+          "count": 4
+        },
+        {
+          "theme": "campaigning",
+          "count": 4
+        },
+        {
+          "theme": "amac",
+          "count": 4
+        },
+        {
+          "theme": "born",
+          "count": 4
+        },
+        {
+          "theme": "february",
+          "count": 4
+        },
+        {
+          "theme": "candidate",
+          "count": 4
+        },
+        {
+          "theme": "million",
+          "count": 4
+        },
+        {
+          "theme": "speaking",
+          "count": 4
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 8,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "business",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "youth",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "east",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 8
+    },
+    {
+      "name": "And Wike",
+      "state": "Lagos",
+      "mention_count": 4,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.1405,
+        "positive_pct": 16.7,
+        "negative_pct": 0.0,
+        "neutral_pct": 83.3,
+        "total_analyzed": 12
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.1405,
+          "count": 12,
+          "positive_pct": 16.7,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "“This coming election, support us in AMAC; it will help me. Your support in AMAC is critical to our journey. I am involved and contesting the coming election as number one. When I come back, you will ...",
+          "platform": "nairaland",
+          "score": 0.8432,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "“This coming election, support us in AMAC; it will help me. Your support in AMAC is critical to our journey. I am involved and contesting the coming election as number one. When I come back, you will ...",
+          "platform": "nairaland",
+          "score": 0.8432,
+          "date": "2026-02-02 23:01:00"
+        }
+      ],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "tinubu",
+          "count": 40
+        },
+        {
+          "theme": "apc",
+          "count": 32
+        },
+        {
+          "theme": "political",
+          "count": 28
+        },
+        {
+          "theme": "state",
+          "count": 28
+        },
+        {
+          "theme": "win",
+          "count": 26
+        },
+        {
+          "theme": "governor",
+          "count": 24
+        },
+        {
+          "theme": "rivers",
+          "count": 22
+        },
+        {
+          "theme": "fubara",
+          "count": 20
+        },
+        {
+          "theme": "election",
+          "count": 18
+        },
+        {
+          "theme": "full",
+          "count": 18
+        },
+        {
+          "theme": "leader",
+          "count": 14
+        },
+        {
+          "theme": "party",
+          "count": 14
+        },
+        {
+          "theme": "south",
+          "count": 14
+        },
+        {
+          "theme": "president",
+          "count": 12
+        },
+        {
+          "theme": "scale",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 12,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": [
+          {
+            "region": "east",
+            "mentions": 4
+          },
+          {
+            "region": "north",
+            "mentions": 2
+          },
+          {
+            "region": "south",
+            "mentions": 2
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          },
+          {
+            "region": "central",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 12
+    },
+    {
+      "name": "But God",
+      "state": "Lagos",
+      "mention_count": 12,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.1377,
+        "positive_pct": 57.1,
+        "negative_pct": 14.3,
+        "neutral_pct": 28.6,
+        "total_analyzed": 21
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.1377,
+          "count": 21,
+          "positive_pct": 57.1,
+          "negative_pct": 14.3
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "miracle002 : Initially when the allegation of Dangote against NMPDRA boss Ahmed Farouk came up and also against his children schooling abroad I was happy with how Dangote is exposing this people livin...",
+          "platform": "nairaland",
+          "score": 0.4574,
+          "date": "2026-12-17 07:28:00"
+        }
+      ],
+      "top_negative_excerpts": [
+        {
+          "text": "But God wont side Farouk also because he is corrupt. We all know dangote is doing it for his own selfish reason.",
+          "platform": "nairaland",
+          "score": -0.8656,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "But God wont side Farouk also because he is corrupt. We all know dangote is doing it for his own selfish reason.",
+          "platform": "nairaland",
+          "score": -0.8656,
+          "date": "2026-12-17 07:28:00"
+        },
+        {
+          "text": "But God wont side Farouk also because he is corrupt. We all know dangote is doing it for his own selfish reason.",
+          "platform": "nairaland",
+          "score": -0.8656,
+          "date": "2026-12-17 07:28:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "dangote",
+          "count": 128
+        },
+        {
+          "theme": "petrol",
+          "count": 102
+        },
+        {
+          "theme": "nigerians",
+          "count": 52
+        },
+        {
+          "theme": "importation",
+          "count": 50
+        },
+        {
+          "theme": "fighting",
+          "count": 50
+        },
+        {
+          "theme": "wants",
+          "count": 44
+        },
+        {
+          "theme": "farouk",
+          "count": 42
+        },
+        {
+          "theme": "monopoly",
+          "count": 40
+        },
+        {
+          "theme": "cement",
+          "count": 40
+        },
+        {
+          "theme": "because",
+          "count": 40
+        },
+        {
+          "theme": "price",
+          "count": 30
+        },
+        {
+          "theme": "began",
+          "count": 30
+        },
+        {
+          "theme": "suspect",
+          "count": 30
+        },
+        {
+          "theme": "petroleum",
+          "count": 30
+        },
+        {
+          "theme": "something",
+          "count": 22
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 14,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "diaspora",
+            "mentions": 10,
+            "strength": "strong"
+          },
+          {
+            "category": "business",
+            "mentions": 10,
+            "strength": "strong"
+          },
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "religious",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 2
+          },
+          {
+            "region": "south",
+            "mentions": 2
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 14
+    },
+    {
+      "name": "All Progressives Congress",
+      "state": "Lagos",
+      "mention_count": 8,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.0,
+        "positive_pct": 0.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 100.0,
+        "total_analyzed": 12
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.0,
+          "count": 12,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "former",
+          "count": 22
+        },
+        {
+          "theme": "governor",
+          "count": 22
+        },
+        {
+          "theme": "president",
+          "count": 22
+        },
+        {
+          "theme": "political",
+          "count": 20
+        },
+        {
+          "theme": "kano",
+          "count": 20
+        },
+        {
+          "theme": "state",
+          "count": 14
+        },
+        {
+          "theme": "party",
+          "count": 14
+        },
+        {
+          "theme": "apc",
+          "count": 14
+        },
+        {
+          "theme": "presidential",
+          "count": 12
+        },
+        {
+          "theme": "stated",
+          "count": 12
+        },
+        {
+          "theme": "tinubu",
+          "count": 12
+        },
+        {
+          "theme": "government",
+          "count": 12
+        },
+        {
+          "theme": "never",
+          "count": 10
+        },
+        {
+          "theme": "made",
+          "count": 10
+        },
+        {
+          "theme": "expected",
+          "count": 10
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 8,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "religious",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 2
+          },
+          {
+            "region": "south",
+            "mentions": 2
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 8
+    },
+    {
+      "name": "Mohammed Idris Malagi",
+      "state": "Lagos",
+      "mention_count": 14,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.0,
+        "positive_pct": 0.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 100.0,
+        "total_analyzed": 3
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.0,
+          "count": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "niger",
+          "count": 40
+        },
+        {
+          "theme": "state",
+          "count": 36
+        },
+        {
+          "theme": "call",
+          "count": 16
+        },
+        {
+          "theme": "leadership",
+          "count": 14
+        },
+        {
+          "theme": "moment",
+          "count": 10
+        },
+        {
+          "theme": "contest",
+          "count": 8
+        },
+        {
+          "theme": "governorship",
+          "count": 8
+        },
+        {
+          "theme": "without",
+          "count": 8
+        },
+        {
+          "theme": "while",
+          "count": 8
+        },
+        {
+          "theme": "group",
+          "count": 6
+        },
+        {
+          "theme": "public",
+          "count": 6
+        },
+        {
+          "theme": "national",
+          "count": 6
+        },
+        {
+          "theme": "governor",
+          "count": 6
+        },
+        {
+          "theme": "lack",
+          "count": 6
+        },
+        {
+          "theme": "leaders",
+          "count": 6
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 2,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "youth",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "diaspora",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "business",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "south",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 2
+    },
+    {
+      "name": "Former Chairman",
+      "state": "Lagos",
+      "mention_count": 12,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.0,
+        "positive_pct": 0.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 100.0,
+        "total_analyzed": 3
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.0,
+          "count": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "state",
+          "count": 66
+        },
+        {
+          "theme": "anambra",
+          "count": 52
+        },
+        {
+          "theme": "nigeria",
+          "count": 36
+        },
+        {
+          "theme": "government",
+          "count": 36
+        },
+        {
+          "theme": "governor",
+          "count": 32
+        },
+        {
+          "theme": "nigerian",
+          "count": 16
+        },
+        {
+          "theme": "management",
+          "count": 16
+        },
+        {
+          "theme": "committee",
+          "count": 16
+        },
+        {
+          "theme": "business",
+          "count": 14
+        },
+        {
+          "theme": "economic",
+          "count": 14
+        },
+        {
+          "theme": "council",
+          "count": 14
+        },
+        {
+          "theme": "award",
+          "count": 14
+        },
+        {
+          "theme": "development",
+          "count": 14
+        },
+        {
+          "theme": "leadership",
+          "count": 12
+        },
+        {
+          "theme": "newspaper",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 2,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "women",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "diaspora",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "business",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "religious",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "south",
+            "mentions": 2
+          },
+          {
+            "region": "east",
+            "mentions": 2
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 2
+    },
+    {
+      "name": "Obidient Movement",
+      "state": "Lagos",
+      "mention_count": 6,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": 0.0,
+        "positive_pct": 0.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 100.0,
+        "total_analyzed": 9
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": 0.0,
+          "count": 9,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [],
+      "key_themes": [
+        {
+          "theme": "obi",
+          "count": 42
+        },
+        {
+          "theme": "peter",
+          "count": 26
+        },
+        {
+          "theme": "campaign",
+          "count": 22
+        },
+        {
+          "theme": "political",
+          "count": 22
+        },
+        {
+          "theme": "into",
+          "count": 20
+        },
+        {
+          "theme": "crowds",
+          "count": 16
+        },
+        {
+          "theme": "presidential",
+          "count": 12
+        },
+        {
+          "theme": "years",
+          "count": 12
+        },
+        {
+          "theme": "moses",
+          "count": 12
+        },
+        {
+          "theme": "nigerians",
+          "count": 12
+        },
+        {
+          "theme": "something",
+          "count": 12
+        },
+        {
+          "theme": "message",
+          "count": 12
+        },
+        {
+          "theme": "nigerian",
+          "count": 12
+        },
+        {
+          "theme": "supporters",
+          "count": 10
+        },
+        {
+          "theme": "council",
+          "count": 10
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 6,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "business",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 4
+          },
+          {
+            "region": "south",
+            "mentions": 4
+          },
+          {
+            "region": "east",
+            "mentions": 4
+          },
+          {
+            "region": "west",
+            "mentions": 4
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 6
+    },
+    {
+      "name": "Bola Tinubu",
+      "state": "Lagos",
+      "mention_count": 6,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.1162,
+        "positive_pct": 0.0,
+        "negative_pct": 14.3,
+        "neutral_pct": 85.7,
+        "total_analyzed": 21
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.1162,
+          "count": 21,
+          "positive_pct": 0.0,
+          "negative_pct": 14.3
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "\"The #EndSARS protests had an impact, particularly in Lagos, where many youths wanted a pound of flesh, which did not help the APC or Bola Tinubu,” These people sha. They think it is about EndSars? We...",
+          "platform": "nairaland",
+          "score": -0.8132,
+          "date": "2026-02-02 17:57:00"
+        },
+        {
+          "text": "\"The #EndSARS protests had an impact, particularly in Lagos, where many youths wanted a pound of flesh, which did not help the APC or Bola Tinubu,” These people sha. They think it is about EndSars? We...",
+          "platform": "nairaland",
+          "score": -0.8132,
+          "date": "2026-02-02 17:57:00"
+        },
+        {
+          "text": "\"The #EndSARS protests had an impact, particularly in Lagos, where many youths wanted a pound of flesh, which did not help the APC or Bola Tinubu,” These people sha. They think it is about EndSars? We...",
+          "platform": "nairaland",
+          "score": -0.8132,
+          "date": "2026-02-02 17:57:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "president",
+          "count": 44
+        },
+        {
+          "theme": "state",
+          "count": 32
+        },
+        {
+          "theme": "former",
+          "count": 30
+        },
+        {
+          "theme": "political",
+          "count": 26
+        },
+        {
+          "theme": "presidential",
+          "count": 24
+        },
+        {
+          "theme": "governor",
+          "count": 22
+        },
+        {
+          "theme": "party",
+          "count": 16
+        },
+        {
+          "theme": "made",
+          "count": 16
+        },
+        {
+          "theme": "muslim",
+          "count": 14
+        },
+        {
+          "theme": "candidate",
+          "count": 14
+        },
+        {
+          "theme": "lagos",
+          "count": 14
+        },
+        {
+          "theme": "minister",
+          "count": 14
+        },
+        {
+          "theme": "rivers",
+          "count": 14
+        },
+        {
+          "theme": "fubara",
+          "count": 14
+        },
+        {
+          "theme": "federal",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 14,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "urban",
+            "mentions": 6,
+            "strength": "strong"
+          },
+          {
+            "category": "youth",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "religious",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "business",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 4
+          },
+          {
+            "region": "south",
+            "mentions": 4
+          },
+          {
+            "region": "west",
+            "mentions": 4
+          },
+          {
+            "region": "east",
+            "mentions": 4
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 14
+    },
+    {
+      "name": "Nasir El-Rufai",
+      "state": "Lagos",
+      "mention_count": 8,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.1265,
+        "positive_pct": 0.0,
+        "negative_pct": 25.0,
+        "neutral_pct": 75.0,
+        "total_analyzed": 12
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.1265,
+          "count": 12,
+          "positive_pct": 0.0,
+          "negative_pct": 25.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "So mallam Nasir El-Rufai thinks he is making sense? Politicians are sometimes so amusing.",
+          "platform": "nairaland",
+          "score": -0.5062,
+          "date": "2026-02-10 12:09:00"
+        },
+        {
+          "text": "So mallam Nasir El-Rufai thinks he is making sense? Politicians are sometimes so amusing.",
+          "platform": "nairaland",
+          "score": -0.5062,
+          "date": "2026-02-10 12:09:00"
+        },
+        {
+          "text": "So mallam Nasir El-Rufai thinks he is making sense? Politicians are sometimes so amusing.",
+          "platform": "nairaland",
+          "score": -0.5062,
+          "date": "2026-02-10 12:09:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "president",
+          "count": 14
+        },
+        {
+          "theme": "muslim",
+          "count": 14
+        },
+        {
+          "theme": "tinubu",
+          "count": 12
+        },
+        {
+          "theme": "kaduna",
+          "count": 10
+        },
+        {
+          "theme": "governor",
+          "count": 10
+        },
+        {
+          "theme": "candidate",
+          "count": 10
+        },
+        {
+          "theme": "former",
+          "count": 8
+        },
+        {
+          "theme": "personal",
+          "count": 8
+        },
+        {
+          "theme": "never",
+          "count": 8
+        },
+        {
+          "theme": "election",
+          "count": 8
+        },
+        {
+          "theme": "apc",
+          "count": 8
+        },
+        {
+          "theme": "god",
+          "count": 8
+        },
+        {
+          "theme": "win",
+          "count": 8
+        },
+        {
+          "theme": "asiwaju",
+          "count": 8
+        },
+        {
+          "theme": "contest",
+          "count": 8
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 8,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "south",
+            "mentions": 6
+          },
+          {
+            "region": "north",
+            "mentions": 4
+          },
+          {
+            "region": "west",
+            "mentions": 4
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 8
+    },
+    {
+      "name": "Labour Party",
+      "state": "Lagos",
+      "mention_count": 8,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.1759,
+        "positive_pct": 0.0,
+        "negative_pct": 20.0,
+        "neutral_pct": 80.0,
+        "total_analyzed": 15
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.1759,
+          "count": 15,
+          "positive_pct": 0.0,
+          "negative_pct": 20.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Haaa... why release their phone numbers.? they will start receiving the same brown envelope calls that destroyed Labour party.",
+          "platform": "nairaland",
+          "score": -0.8796,
+          "date": "2026-01-26 04:12:00"
+        },
+        {
+          "text": "Haaa... why release their phone numbers.? they will start receiving the same brown envelope calls that destroyed Labour party.",
+          "platform": "nairaland",
+          "score": -0.8796,
+          "date": "2026-01-26 04:12:00"
+        },
+        {
+          "text": "Haaa... why release their phone numbers.? they will start receiving the same brown envelope calls that destroyed Labour party.",
+          "platform": "nairaland",
+          "score": -0.8796,
+          "date": "2026-01-26 04:12:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "state",
+          "count": 14
+        },
+        {
+          "theme": "muslim",
+          "count": 12
+        },
+        {
+          "theme": "presidential",
+          "count": 12
+        },
+        {
+          "theme": "election",
+          "count": 10
+        },
+        {
+          "theme": "ticket",
+          "count": 10
+        },
+        {
+          "theme": "former",
+          "count": 10
+        },
+        {
+          "theme": "because",
+          "count": 10
+        },
+        {
+          "theme": "contest",
+          "count": 10
+        },
+        {
+          "theme": "sure",
+          "count": 8
+        },
+        {
+          "theme": "governorship",
+          "count": 8
+        },
+        {
+          "theme": "cross",
+          "count": 8
+        },
+        {
+          "theme": "apc",
+          "count": 8
+        },
+        {
+          "theme": "governor",
+          "count": 8
+        },
+        {
+          "theme": "god",
+          "count": 8
+        },
+        {
+          "theme": "win",
+          "count": 8
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "urban",
+            "mentions": 8,
+            "strength": "strong"
+          },
+          {
+            "category": "youth",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "religious",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 2
+          },
+          {
+            "region": "south",
+            "mentions": 2
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          },
+          {
+            "region": "east",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "El Rufai",
+      "state": "Lagos",
+      "mention_count": 16,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.3149,
+        "positive_pct": 0.0,
+        "negative_pct": 41.7,
+        "neutral_pct": 58.3,
+        "total_analyzed": 36
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.3149,
+          "count": 36,
+          "positive_pct": 0.0,
+          "negative_pct": 41.7
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "El Rufai is a snake . He was part of those who ab*sed Tinubu in APC.",
+          "platform": "nairaland",
+          "score": -0.8701,
+          "date": "2026-02-10 12:09:00"
+        },
+        {
+          "text": "El Rufai is a snake . He was part of those who ab*sed Tinubu in APC.",
+          "platform": "nairaland",
+          "score": -0.8701,
+          "date": "2026-02-10 12:09:00"
+        },
+        {
+          "text": "El Rufai is a snake . He was part of those who ab*sed Tinubu in APC.",
+          "platform": "nairaland",
+          "score": -0.8701,
+          "date": "2026-02-10 12:09:00"
+        },
+        {
+          "text": "Burob : Stop jumping around in cycles, very funny how ironic now that u are now a supporter of El Rufai? Nigerians are just too gullible, & myopic minded, your personal hatred for President Tinubu wil...",
+          "platform": "nairaland",
+          "score": -0.8149,
+          "date": "2026-02-10 12:09:00"
+        },
+        {
+          "text": "Burob : Stop jumping around in cycles, very funny how ironic now that u are now a supporter of El Rufai? Nigerians are just too gullible, & myopic minded, your personal hatred for President Tinubu wil...",
+          "platform": "nairaland",
+          "score": -0.8149,
+          "date": "2026-02-10 12:09:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "tinubu",
+          "count": 48
+        },
+        {
+          "theme": "elrufai",
+          "count": 28
+        },
+        {
+          "theme": "work",
+          "count": 10
+        },
+        {
+          "theme": "ironic",
+          "count": 10
+        },
+        {
+          "theme": "evidence",
+          "count": 8
+        },
+        {
+          "theme": "president",
+          "count": 8
+        },
+        {
+          "theme": "agitation",
+          "count": 8
+        },
+        {
+          "theme": "begging",
+          "count": 6
+        },
+        {
+          "theme": "part",
+          "count": 6
+        },
+        {
+          "theme": "minister",
+          "count": 6
+        },
+        {
+          "theme": "cannot",
+          "count": 6
+        },
+        {
+          "theme": "aminda",
+          "count": 6
+        },
+        {
+          "theme": "working",
+          "count": 6
+        },
+        {
+          "theme": "see",
+          "count": 6
+        },
+        {
+          "theme": "video",
+          "count": 4
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 24,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": []
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 24
+    },
+    {
+      "name": "Electronic Transmission",
+      "state": "Lagos",
+      "mention_count": 18,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.3857,
+        "positive_pct": 0.0,
+        "negative_pct": 55.6,
+        "neutral_pct": 44.4,
+        "total_analyzed": 27
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.3857,
+          "count": 27,
+          "positive_pct": 0.0,
+          "negative_pct": 55.6
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Electronic transmission of manual votes? Does this OP know what he’s even talking about? There’s an ignorance pandemic in this country, largely due to Obidients",
+          "platform": "nairaland",
+          "score": -0.8832,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "Electronic transmission of manual votes? Does this OP know what he’s even talking about? There’s an ignorance pandemic in this country, largely due to Obidients",
+          "platform": "nairaland",
+          "score": -0.8832,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "Electronic transmission of manual votes? Does this OP know what he’s even talking about? There’s an ignorance pandemic in this country, largely due to Obidients",
+          "platform": "nairaland",
+          "score": -0.8832,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "Lanretoye : Real time electronic transmission stops rigging where even in America,even Trump admitted that elections were rigged.people who can alter mmesoma jamb result,tamper with jamb website are n...",
+          "platform": "nairaland",
+          "score": -0.6786,
+          "date": "2026-02-10 07:54:00"
+        },
+        {
+          "text": "Lanretoye : Real time electronic transmission stops rigging where even in America,even Trump admitted that elections were rigged.people who can alter mmesoma jamb result,tamper with jamb website are n...",
+          "platform": "nairaland",
+          "score": -0.6786,
+          "date": "2026-02-10 07:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "results",
+          "count": 74
+        },
+        {
+          "theme": "collation",
+          "count": 26
+        },
+        {
+          "theme": "online",
+          "count": 22
+        },
+        {
+          "theme": "uploading",
+          "count": 18
+        },
+        {
+          "theme": "votes",
+          "count": 18
+        },
+        {
+          "theme": "photographs",
+          "count": 18
+        },
+        {
+          "theme": "voting",
+          "count": 16
+        },
+        {
+          "theme": "election",
+          "count": 16
+        },
+        {
+          "theme": "network",
+          "count": 12
+        },
+        {
+          "theme": "polling",
+          "count": 12
+        },
+        {
+          "theme": "requesting",
+          "count": 12
+        },
+        {
+          "theme": "photos",
+          "count": 12
+        },
+        {
+          "theme": "inside",
+          "count": 12
+        },
+        {
+          "theme": "transmitted",
+          "count": 12
+        },
+        {
+          "theme": "levels",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 18,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "youth",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 2
+          },
+          {
+            "region": "east",
+            "mentions": 2
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          },
+          {
+            "region": "senatorial",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 18
+    },
+    {
+      "name": "Peter Obi",
+      "state": "Lagos",
+      "mention_count": 112,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.4203,
+        "positive_pct": 8.0,
+        "negative_pct": 66.7,
+        "neutral_pct": 25.3,
+        "total_analyzed": 225
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.4203,
+          "count": 225,
+          "positive_pct": 8.0,
+          "negative_pct": 66.7
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "SpaceX : Peter obi will definitely surprise every body when E eventually becomes the president Wake up boy , there is no eventual In politics rather physical game And for Pitobi he will eventually tur...",
+          "platform": "nairaland",
+          "score": 0.9117,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "SpaceX : Peter obi will definitely surprise every body when E eventually becomes the president Wake up boy , there is no eventual In politics rather physical game And for Pitobi he will eventually tur...",
+          "platform": "nairaland",
+          "score": 0.9117,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "SpaceX : Peter obi will definitely surprise every body when E eventually becomes the president Wake up boy , there is no eventual In politics rather physical game And for Pitobi he will eventually tur...",
+          "platform": "nairaland",
+          "score": 0.9117,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "Peter Obi for president or nothing. He is more competent than other presidential aspirants. I want Nigeria to be good. So I need Peter Obi as the president come 2027.",
+          "platform": "nairaland",
+          "score": 0.9037,
+          "date": "2026-02-02 23:01:00"
+        },
+        {
+          "text": "Peter Obi for president or nothing. He is more competent than other presidential aspirants. I want Nigeria to be good. So I need Peter Obi as the president come 2027.",
+          "platform": "nairaland",
+          "score": 0.9037,
+          "date": "2026-02-02 23:01:00"
+        }
+      ],
+      "top_negative_excerpts": [
+        {
+          "text": "This shouldn't be news na, Peter obi buys groundnut, so fuk what? Why's this trash on fp",
+          "platform": "nairaland",
+          "score": -0.9373,
+          "date": "2026-02-12 13:01:00"
+        },
+        {
+          "text": "This shouldn't be news na, Peter obi buys groundnut, so fuk what? Why's this trash on fp",
+          "platform": "nairaland",
+          "score": -0.9373,
+          "date": "2026-02-12 13:01:00"
+        },
+        {
+          "text": "This shouldn't be news na, Peter obi buys groundnut, so fuk what? Why's this trash on fp",
+          "platform": "nairaland",
+          "score": -0.9373,
+          "date": "2026-02-12 13:01:00"
+        },
+        {
+          "text": "This shouldn't be news na, Peter obi buys groundnut, so fuk what? Why's this trash on fp",
+          "platform": "nairaland",
+          "score": -0.9373,
+          "date": "2026-02-12 13:01:00"
+        },
+        {
+          "text": "This shouldn't be news na, Peter obi buys groundnut, so fuk what? Why's this trash on fp",
+          "platform": "nairaland",
+          "score": -0.9373,
+          "date": "2026-02-12 13:01:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "state",
+          "count": 90
+        },
+        {
+          "theme": "nigeria",
+          "count": 58
+        },
+        {
+          "theme": "anambra",
+          "count": 56
+        },
+        {
+          "theme": "governor",
+          "count": 50
+        },
+        {
+          "theme": "president",
+          "count": 48
+        },
+        {
+          "theme": "election",
+          "count": 48
+        },
+        {
+          "theme": "because",
+          "count": 46
+        },
+        {
+          "theme": "campaign",
+          "count": 46
+        },
+        {
+          "theme": "nigerian",
+          "count": 44
+        },
+        {
+          "theme": "run",
+          "count": 40
+        },
+        {
+          "theme": "government",
+          "count": 38
+        },
+        {
+          "theme": "next",
+          "count": 36
+        },
+        {
+          "theme": "political",
+          "count": 36
+        },
+        {
+          "theme": "former",
+          "count": 36
+        },
+        {
+          "theme": "politicians",
+          "count": 34
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 150,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "business",
+            "mentions": 18,
+            "strength": "strong"
+          },
+          {
+            "category": "urban",
+            "mentions": 8,
+            "strength": "strong"
+          },
+          {
+            "category": "religious",
+            "mentions": 8,
+            "strength": "strong"
+          },
+          {
+            "category": "youth",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "rural",
+            "mentions": 4,
+            "strength": "strong"
+          },
+          {
+            "category": "women",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "diaspora",
+            "mentions": 2,
+            "strength": "moderate"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "south",
+            "mentions": 14
+          },
+          {
+            "region": "east",
+            "mentions": 14
+          },
+          {
+            "region": "north",
+            "mentions": 8
+          },
+          {
+            "region": "west",
+            "mentions": 8
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 150
+    },
+    {
+      "name": "Peter Obi's",
+      "state": "Lagos",
+      "mention_count": 16,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.4956,
+        "positive_pct": 0.0,
+        "negative_pct": 66.7,
+        "neutral_pct": 33.3,
+        "total_analyzed": 18
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.4956,
+          "count": 18,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "BlakKluKluxKlan : Peter Obi's outing in 2027 is billed to be rather disastrous and suicidal. RIP to his political ambition in advance. Every data boy of the Lagos kitchen cabinet have thesame views. W...",
+          "platform": "nairaland",
+          "score": -0.8575,
+          "date": "2026-01-23 10:37:00"
+        },
+        {
+          "text": "BlakKluKluxKlan : Peter Obi's outing in 2027 is billed to be rather disastrous and suicidal. RIP to his political ambition in advance. Every data boy of the Lagos kitchen cabinet have thesame views. W...",
+          "platform": "nairaland",
+          "score": -0.8575,
+          "date": "2026-01-23 10:37:00"
+        },
+        {
+          "text": "BlakKluKluxKlan : Peter Obi's outing in 2027 is billed to be rather disastrous and suicidal. RIP to his political ambition in advance. Every data boy of the Lagos kitchen cabinet have thesame views. W...",
+          "platform": "nairaland",
+          "score": -0.8575,
+          "date": "2026-01-23 10:37:00"
+        },
+        {
+          "text": "BlakKluKluxKlan : Peter Obi's outing in 2027 is billed to be rather disastrous and suicidal. RIP to his political ambition in advance. Every data boy of the Lagos kitchen cabinet have thesame views. W...",
+          "platform": "nairaland",
+          "score": -0.8575,
+          "date": "2026-01-23 10:37:00"
+        },
+        {
+          "text": "BlakKluKluxKlan : Peter Obi's outing in 2027 is billed to be rather disastrous and suicidal. RIP to his political ambition in advance. Every data boy of the Lagos kitchen cabinet have thesame views. W...",
+          "platform": "nairaland",
+          "score": -0.8575,
+          "date": "2026-01-23 10:37:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "obi",
+          "count": 36
+        },
+        {
+          "theme": "political",
+          "count": 24
+        },
+        {
+          "theme": "into",
+          "count": 20
+        },
+        {
+          "theme": "campaign",
+          "count": 20
+        },
+        {
+          "theme": "movement",
+          "count": 20
+        },
+        {
+          "theme": "crowds",
+          "count": 16
+        },
+        {
+          "theme": "years",
+          "count": 12
+        },
+        {
+          "theme": "moses",
+          "count": 12
+        },
+        {
+          "theme": "nigerians",
+          "count": 12
+        },
+        {
+          "theme": "something",
+          "count": 12
+        },
+        {
+          "theme": "message",
+          "count": 12
+        },
+        {
+          "theme": "nigerian",
+          "count": 12
+        },
+        {
+          "theme": "drawing",
+          "count": 8
+        },
+        {
+          "theme": "politicians",
+          "count": 8
+        },
+        {
+          "theme": "candidate",
+          "count": 8
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 12,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "business",
+            "mentions": 4,
+            "strength": "strong"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 4
+          },
+          {
+            "region": "south",
+            "mentions": 4
+          },
+          {
+            "region": "east",
+            "mentions": 4
+          },
+          {
+            "region": "west",
+            "mentions": 4
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 12
+    },
+    {
+      "name": "Getting Polling Unit",
+      "state": "Lagos",
+      "mention_count": 12,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.673,
+        "positive_pct": 0.0,
+        "negative_pct": 100.0,
+        "neutral_pct": 0.0,
+        "total_analyzed": 18
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.673,
+          "count": 18,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "agents",
+          "count": 46
+        },
+        {
+          "theme": "give",
+          "count": 18
+        },
+        {
+          "theme": "results",
+          "count": 16
+        },
+        {
+          "theme": "network",
+          "count": 14
+        },
+        {
+          "theme": "whether",
+          "count": 14
+        },
+        {
+          "theme": "lack",
+          "count": 14
+        },
+        {
+          "theme": "force",
+          "count": 12
+        },
+        {
+          "theme": "anger",
+          "count": 12
+        },
+        {
+          "theme": "though",
+          "count": 12
+        },
+        {
+          "theme": "impossible",
+          "count": 12
+        },
+        {
+          "theme": "operators",
+          "count": 12
+        },
+        {
+          "theme": "telecommunications",
+          "count": 12
+        },
+        {
+          "theme": "something",
+          "count": 12
+        },
+        {
+          "theme": "affirm",
+          "count": 12
+        },
+        {
+          "theme": "difficult",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 12,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": [
+          {
+            "region": "senatorial",
+            "mentions": 12
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 12
+    },
+    {
+      "name": "Hope Uzodinma",
+      "state": "Lagos",
+      "mention_count": 12,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.673,
+        "positive_pct": 0.0,
+        "negative_pct": 100.0,
+        "neutral_pct": 0.0,
+        "total_analyzed": 18
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.673,
+          "count": 18,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "agents",
+          "count": 46
+        },
+        {
+          "theme": "polling",
+          "count": 36
+        },
+        {
+          "theme": "give",
+          "count": 18
+        },
+        {
+          "theme": "results",
+          "count": 16
+        },
+        {
+          "theme": "network",
+          "count": 14
+        },
+        {
+          "theme": "whether",
+          "count": 14
+        },
+        {
+          "theme": "lack",
+          "count": 14
+        },
+        {
+          "theme": "force",
+          "count": 12
+        },
+        {
+          "theme": "anger",
+          "count": 12
+        },
+        {
+          "theme": "though",
+          "count": 12
+        },
+        {
+          "theme": "impossible",
+          "count": 12
+        },
+        {
+          "theme": "operators",
+          "count": 12
+        },
+        {
+          "theme": "telecommunications",
+          "count": 12
+        },
+        {
+          "theme": "something",
+          "count": 12
+        },
+        {
+          "theme": "affirm",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 12,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": [
+          {
+            "region": "senatorial",
+            "mentions": 12
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 12
+    },
+    {
+      "name": "Polling Officer",
+      "state": "Lagos",
+      "mention_count": 12,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.673,
+        "positive_pct": 0.0,
+        "negative_pct": 100.0,
+        "neutral_pct": 0.0,
+        "total_analyzed": 18
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.673,
+          "count": 18,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        },
+        {
+          "text": "fergie001 : Unfortunately, we can't force the NASS. Protests, anger and that's where it all ends. E-transmission of results will be very difficult, though not impossible to implement. The network oper...",
+          "platform": "nairaland",
+          "score": -0.673,
+          "date": "2026-02-09 00:27:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "agents",
+          "count": 46
+        },
+        {
+          "theme": "give",
+          "count": 18
+        },
+        {
+          "theme": "results",
+          "count": 16
+        },
+        {
+          "theme": "network",
+          "count": 14
+        },
+        {
+          "theme": "whether",
+          "count": 14
+        },
+        {
+          "theme": "lack",
+          "count": 14
+        },
+        {
+          "theme": "force",
+          "count": 12
+        },
+        {
+          "theme": "anger",
+          "count": 12
+        },
+        {
+          "theme": "though",
+          "count": 12
+        },
+        {
+          "theme": "impossible",
+          "count": 12
+        },
+        {
+          "theme": "operators",
+          "count": 12
+        },
+        {
+          "theme": "telecommunications",
+          "count": 12
+        },
+        {
+          "theme": "something",
+          "count": 12
+        },
+        {
+          "theme": "affirm",
+          "count": 12
+        },
+        {
+          "theme": "difficult",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 12,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": [
+          {
+            "region": "senatorial",
+            "mentions": 12
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 12
+    },
+    {
+      "name": "Aso Rock",
+      "state": "Lagos",
+      "mention_count": 18,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.7341,
+        "positive_pct": 0.0,
+        "negative_pct": 92.3,
+        "neutral_pct": 7.7,
+        "total_analyzed": 39
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.7341,
+          "count": 39,
+          "positive_pct": 0.0,
+          "negative_pct": 92.3
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "duro4chang : Deceiver. He is too desperate. No presidency for you No vacancy in Aso Rock lafmaooo Awa lo kan",
+          "platform": "nairaland",
+          "score": -0.8787,
+          "date": "2026-02-12 12:35:00"
+        },
+        {
+          "text": "duro4chang : Deceiver. He is too desperate. No presidency for you No vacancy in Aso Rock lafmaooo Awa lo kan",
+          "platform": "nairaland",
+          "score": -0.8787,
+          "date": "2026-02-12 12:35:00"
+        },
+        {
+          "text": "duro4chang : Deceiver. He is too desperate. No presidency for you No vacancy in Aso Rock lafmaooo Awa lo kan",
+          "platform": "nairaland",
+          "score": -0.8787,
+          "date": "2026-02-12 12:35:00"
+        },
+        {
+          "text": "duro4chang : Deceiver. He is too desperate. No presidency for you No vacancy in Aso Rock so no any of your family members that can contest for presidency right?",
+          "platform": "nairaland",
+          "score": -0.8329,
+          "date": "2026-02-12 13:01:00"
+        },
+        {
+          "text": "duro4chang : Deceiver. He is too desperate. No presidency for you No vacancy in Aso Rock so no any of your family members that can contest for presidency right?",
+          "platform": "nairaland",
+          "score": -0.8329,
+          "date": "2026-02-12 13:01:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "presidency",
+          "count": 22
+        },
+        {
+          "theme": "vacancy",
+          "count": 18
+        },
+        {
+          "theme": "obi",
+          "count": 10
+        },
+        {
+          "theme": "push",
+          "count": 8
+        },
+        {
+          "theme": "president",
+          "count": 6
+        },
+        {
+          "theme": "any",
+          "count": 6
+        },
+        {
+          "theme": "party",
+          "count": 6
+        },
+        {
+          "theme": "body",
+          "count": 4
+        },
+        {
+          "theme": "mumu",
+          "count": 4
+        },
+        {
+          "theme": "man",
+          "count": 4
+        },
+        {
+          "theme": "bro",
+          "count": 4
+        },
+        {
+          "theme": "wah",
+          "count": 4
+        },
+        {
+          "theme": "playing",
+          "count": 4
+        },
+        {
+          "theme": "format",
+          "count": 4
+        },
+        {
+          "theme": "obvious",
+          "count": 4
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 26,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": []
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 26
+    }
+  ],
+  "Kano": [
+    {
+      "name": "Abba Yusuf",
+      "state": "Kano",
+      "mention_count": 13,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.0757,
+        "positive_pct": 13.3,
+        "negative_pct": 33.3,
+        "neutral_pct": 53.3,
+        "total_analyzed": 15
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.0757,
+          "count": 15,
+          "positive_pct": 13.3,
+          "negative_pct": 33.3
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "Abba Yusuf is welcome to APC family",
+          "platform": "nairaland",
+          "score": 0.7905,
+          "date": "2026-01-12 15:40:00"
+        },
+        {
+          "text": "Governor Abba Yusuf you are highly most welcome to APC the winning team, but that won't stop emir ado bayero doing his legal Job as emir of Kano state.",
+          "platform": "nairaland",
+          "score": 0.7306,
+          "date": "2026-01-12 15:40:00"
+        }
+      ],
+      "top_negative_excerpts": [
+        {
+          "text": "Kwankwaso always having issues with his successors, first, it was Ganduje, and now, it's Gov Abba Yusuf. Definitely, it's not Ganduje or Abba Yusuf that's the problem but it's Kwankwaso. Being a lasti...",
+          "platform": "nairaland",
+          "score": -0.6242,
+          "date": "2026-01-06 17:04:00"
+        },
+        {
+          "text": "always siding with thiefs seunmsg : I will take Gov. Abba Yusuf + Ganduje + Barau Jibrin + 21 Federal Lawmakers over Rabiu Kwakwanso any day. Any strong political structure is all about the people who...",
+          "platform": "nairaland",
+          "score": -0.546,
+          "date": "2026-01-06 17:04:00"
+        },
+        {
+          "text": "You are here on nairaland celebrating with a poor life in reality.. D for DUNDEE B for BOT. yarimo : Governor Abba Yusuf you are highly most welcome to APC the winning team, but that won't stop emir a...",
+          "platform": "nairaland",
+          "score": -0.4966,
+          "date": "2026-01-12 15:40:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "governor",
+          "count": 63
+        },
+        {
+          "theme": "kwankwaso",
+          "count": 61
+        },
+        {
+          "theme": "kano",
+          "count": 33
+        },
+        {
+          "theme": "apc",
+          "count": 28
+        },
+        {
+          "theme": "party",
+          "count": 25
+        },
+        {
+          "theme": "political",
+          "count": 25
+        },
+        {
+          "theme": "nnpp",
+          "count": 24
+        },
+        {
+          "theme": "state",
+          "count": 24
+        },
+        {
+          "theme": "rabiu",
+          "count": 15
+        },
+        {
+          "theme": "without",
+          "count": 14
+        },
+        {
+          "theme": "musa",
+          "count": 13
+        },
+        {
+          "theme": "governorship",
+          "count": 13
+        },
+        {
+          "theme": "ways",
+          "count": 12
+        },
+        {
+          "theme": "remain",
+          "count": 12
+        },
+        {
+          "theme": "support",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 15,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "youth",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "urban",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "local government",
+            "mentions": 2
+          },
+          {
+            "region": "north",
+            "mentions": 1
+          },
+          {
+            "region": "south",
+            "mentions": 1
+          },
+          {
+            "region": "central",
+            "mentions": 1
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 15
+    },
+    {
+      "name": "Governor Abba Yusuf",
+      "state": "Kano",
+      "mention_count": 7,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.0945,
+        "positive_pct": 12.5,
+        "negative_pct": 37.5,
+        "neutral_pct": 50.0,
+        "total_analyzed": 8
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.0945,
+          "count": 8,
+          "positive_pct": 12.5,
+          "negative_pct": 37.5
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "Governor Abba Yusuf you are highly most welcome to APC the winning team, but that won't stop emir ado bayero doing his legal Job as emir of Kano state.",
+          "platform": "nairaland",
+          "score": 0.7306,
+          "date": "2026-01-12 15:40:00"
+        }
+      ],
+      "top_negative_excerpts": [
+        {
+          "text": "You are here on nairaland celebrating with a poor life in reality.. D for DUNDEE B for BOT. yarimo : Governor Abba Yusuf you are highly most welcome to APC the winning team, but that won't stop emir a...",
+          "platform": "nairaland",
+          "score": -0.4966,
+          "date": "2026-01-12 15:40:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "kwankwaso",
+          "count": 57
+        },
+        {
+          "theme": "kano",
+          "count": 33
+        },
+        {
+          "theme": "nnpp",
+          "count": 24
+        },
+        {
+          "theme": "state",
+          "count": 24
+        },
+        {
+          "theme": "party",
+          "count": 22
+        },
+        {
+          "theme": "apc",
+          "count": 21
+        },
+        {
+          "theme": "political",
+          "count": 19
+        },
+        {
+          "theme": "musa",
+          "count": 13
+        },
+        {
+          "theme": "governorship",
+          "count": 13
+        },
+        {
+          "theme": "rabiu",
+          "count": 12
+        },
+        {
+          "theme": "ways",
+          "count": 12
+        },
+        {
+          "theme": "remain",
+          "count": 12
+        },
+        {
+          "theme": "support",
+          "count": 12
+        },
+        {
+          "theme": "house",
+          "count": 12
+        },
+        {
+          "theme": "senator",
+          "count": 11
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 8,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "youth",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "urban",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "local government",
+            "mentions": 2
+          },
+          {
+            "region": "north",
+            "mentions": 1
+          },
+          {
+            "region": "south",
+            "mentions": 1
+          },
+          {
+            "region": "central",
+            "mentions": 1
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 8
+    },
+    {
+      "name": "Governor Yusuf",
+      "state": "Kano",
+      "mention_count": 30,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.11,
+        "positive_pct": 0.0,
+        "negative_pct": 22.2,
+        "neutral_pct": 77.8,
+        "total_analyzed": 9
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.11,
+          "count": 9,
+          "positive_pct": 0.0,
+          "negative_pct": 22.2
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "kwankwaso",
+          "count": 62
+        },
+        {
+          "theme": "kano",
+          "count": 42
+        },
+        {
+          "theme": "state",
+          "count": 39
+        },
+        {
+          "theme": "party",
+          "count": 38
+        },
+        {
+          "theme": "apc",
+          "count": 35
+        },
+        {
+          "theme": "nnpp",
+          "count": 26
+        },
+        {
+          "theme": "political",
+          "count": 23
+        },
+        {
+          "theme": "governorship",
+          "count": 19
+        },
+        {
+          "theme": "defection",
+          "count": 17
+        },
+        {
+          "theme": "senator",
+          "count": 15
+        },
+        {
+          "theme": "abba",
+          "count": 15
+        },
+        {
+          "theme": "musa",
+          "count": 14
+        },
+        {
+          "theme": "remain",
+          "count": 14
+        },
+        {
+          "theme": "rabiu",
+          "count": 13
+        },
+        {
+          "theme": "ticket",
+          "count": 13
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 9,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "youth",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "urban",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "local government",
+            "mentions": 2
+          },
+          {
+            "region": "north",
+            "mentions": 1
+          },
+          {
+            "region": "south",
+            "mentions": 1
+          },
+          {
+            "region": "central",
+            "mentions": 1
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 9
+    },
+    {
+      "name": "All Progressives Congress",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.11,
+        "positive_pct": 0.0,
+        "negative_pct": 22.2,
+        "neutral_pct": 77.8,
+        "total_analyzed": 9
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.11,
+          "count": 9,
+          "positive_pct": 0.0,
+          "negative_pct": 22.2
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "governor",
+          "count": 81
+        },
+        {
+          "theme": "kwankwaso",
+          "count": 59
+        },
+        {
+          "theme": "party",
+          "count": 47
+        },
+        {
+          "theme": "kano",
+          "count": 40
+        },
+        {
+          "theme": "state",
+          "count": 40
+        },
+        {
+          "theme": "yusuf",
+          "count": 38
+        },
+        {
+          "theme": "apc",
+          "count": 38
+        },
+        {
+          "theme": "political",
+          "count": 26
+        },
+        {
+          "theme": "nnpp",
+          "count": 26
+        },
+        {
+          "theme": "defection",
+          "count": 20
+        },
+        {
+          "theme": "governorship",
+          "count": 19
+        },
+        {
+          "theme": "senator",
+          "count": 16
+        },
+        {
+          "theme": "abba",
+          "count": 15
+        },
+        {
+          "theme": "musa",
+          "count": 14
+        },
+        {
+          "theme": "remain",
+          "count": 14
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 9,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 3,
+            "strength": "strong"
+          },
+          {
+            "category": "urban",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "youth",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "diaspora",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "business",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "local government",
+            "mentions": 3
+          },
+          {
+            "region": "west",
+            "mentions": 2
+          },
+          {
+            "region": "south",
+            "mentions": 2
+          },
+          {
+            "region": "east",
+            "mentions": 1
+          },
+          {
+            "region": "north",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 9
+    },
+    {
+      "name": "Peoples Democratic Party",
+      "state": "Kano",
+      "mention_count": 19,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2152,
+        "positive_pct": 0.0,
+        "negative_pct": 36.8,
+        "neutral_pct": 63.2,
+        "total_analyzed": 19
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2152,
+          "count": 19,
+          "positive_pct": 0.0,
+          "negative_pct": 36.8
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "callthefred : Like the one you offered as governor of Sokoto or as speaker that frustrated GEJ out of office. The only legacy you have Sir is the U.S. bombing your district where terrorists have settl...",
+          "platform": "nairaland",
+          "score": -0.63,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 131
+        },
+        {
+          "theme": "wike",
+          "count": 83
+        },
+        {
+          "theme": "committee",
+          "count": 81
+        },
+        {
+          "theme": "governor",
+          "count": 79
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 65
+        },
+        {
+          "theme": "south",
+          "count": 62
+        },
+        {
+          "theme": "presidential",
+          "count": 58
+        },
+        {
+          "theme": "man",
+          "count": 44
+        },
+        {
+          "theme": "president",
+          "count": 41
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "kwankwaso",
+          "count": 38
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 19,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "east",
+            "mentions": 14
+          },
+          {
+            "region": "west",
+            "mentions": 14
+          },
+          {
+            "region": "south",
+            "mentions": 13
+          },
+          {
+            "region": "north",
+            "mentions": 11
+          },
+          {
+            "region": "local government",
+            "mentions": 2
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 19
+    },
+    {
+      "name": "Atiku Abubakar",
+      "state": "Kano",
+      "mention_count": 20,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        },
+        {
+          "theme": "ugwuanyi",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Muazu Magaji",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Sunrise Daily",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Ifeanyi Okowa",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Udom Emmanuel",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Gov Ifeanyi Ugwuanyi",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Gov Samuel Ortom",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Olusegun Obasanjo",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Bala Mohammed",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Fulani Atiku",
+      "state": "Kano",
+      "mention_count": 10,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2469,
+        "positive_pct": 0.0,
+        "negative_pct": 40.0,
+        "neutral_pct": 60.0,
+        "total_analyzed": 10
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2469,
+          "count": 10,
+          "positive_pct": 0.0,
+          "negative_pct": 40.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 123
+        },
+        {
+          "theme": "wike",
+          "count": 80
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 52
+        },
+        {
+          "theme": "party",
+          "count": 51
+        },
+        {
+          "theme": "governor",
+          "count": 43
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 35
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        },
+        {
+          "theme": "ugwuanyi",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 10,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 10
+    },
+    {
+      "name": "Musa Gwadabe",
+      "state": "Kano",
+      "mention_count": 12,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2475,
+        "positive_pct": 0.0,
+        "negative_pct": 50.0,
+        "neutral_pct": 50.0,
+        "total_analyzed": 4
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2475,
+          "count": 4,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "kwankwaso",
+          "count": 38
+        },
+        {
+          "theme": "governor",
+          "count": 28
+        },
+        {
+          "theme": "yusuf",
+          "count": 12
+        },
+        {
+          "theme": "ways",
+          "count": 12
+        },
+        {
+          "theme": "party",
+          "count": 10
+        },
+        {
+          "theme": "remain",
+          "count": 10
+        },
+        {
+          "theme": "senator",
+          "count": 8
+        },
+        {
+          "theme": "rabiu",
+          "count": 8
+        },
+        {
+          "theme": "abba",
+          "count": 8
+        },
+        {
+          "theme": "peoples",
+          "count": 8
+        },
+        {
+          "theme": "helped",
+          "count": 8
+        },
+        {
+          "theme": "rimi",
+          "count": 8
+        },
+        {
+          "theme": "win",
+          "count": 8
+        },
+        {
+          "theme": "later",
+          "count": 8
+        },
+        {
+          "theme": "governorship",
+          "count": 8
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 4,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [],
+        "regional_mentions": []
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 4
+    },
+    {
+      "name": "Nyesom Wike",
+      "state": "Kano",
+      "mention_count": 13,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.2543,
+        "positive_pct": 0.0,
+        "negative_pct": 38.5,
+        "neutral_pct": 61.5,
+        "total_analyzed": 13
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.2543,
+          "count": 13,
+          "positive_pct": 0.0,
+          "negative_pct": 38.5
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "The fall of Nyesom Wike WILL be televised. Hopefully, he will die afterwards!",
+          "platform": "nairaland",
+          "score": -0.8368,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        },
+        {
+          "text": "APOPTOSIS : Thank you for ensuring a THUG never emerged as the PDP presidential flagbearer. It was a worthy thing you did. I can't imagine Nigeria being disgraced on an international scale by having a...",
+          "platform": "nairaland",
+          "score": -0.5965,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "Inosky : Your messiah Atikuu is power-drunk, it's a known fact. Go and read Obasanjo's book about him. It's a known fact. Let me correct your wrong narrative, your messiah Atikuu has no power to make ...",
+          "platform": "nairaland",
+          "score": -0.543,
+          "date": "2026-01-25 08:34:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 124
+        },
+        {
+          "theme": "committee",
+          "count": 81
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 60
+        },
+        {
+          "theme": "south",
+          "count": 60
+        },
+        {
+          "theme": "presidential",
+          "count": 53
+        },
+        {
+          "theme": "party",
+          "count": 52
+        },
+        {
+          "theme": "governor",
+          "count": 49
+        },
+        {
+          "theme": "man",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 36
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        },
+        {
+          "theme": "rivers",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 13,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "rural",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "east",
+            "mentions": 11
+          },
+          {
+            "region": "north",
+            "mentions": 10
+          },
+          {
+            "region": "south",
+            "mentions": 10
+          },
+          {
+            "region": "west",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 13
+    },
+    {
+      "name": "Peter Obi",
+      "state": "Kano",
+      "mention_count": 50,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.3133,
+        "positive_pct": 2.4,
+        "negative_pct": 52.4,
+        "neutral_pct": 45.2,
+        "total_analyzed": 42
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.3133,
+          "count": 42,
+          "positive_pct": 2.4,
+          "negative_pct": 52.4
+        }
+      },
+      "top_positive_excerpts": [
+        {
+          "text": "Peter Obi the Sunami. Peter Obi doing wonders. LP party will be in tears now.",
+          "platform": "nairaland",
+          "score": 0.785,
+          "date": "2026-01-14 09:06:00"
+        }
+      ],
+      "top_negative_excerpts": [
+        {
+          "text": "Nicoddemus : Na lie. You resigned not because of the people of kano but for your selfish ambition politics is first about individual interest before other interest, that is why Peter obi is jumping fr...",
+          "platform": "nairaland",
+          "score": -0.7992,
+          "date": "2026-01-23 17:55:00"
+        },
+        {
+          "text": "SlavaUkraini : “Those shouting ‘Obi or nothing’ are equally not helping him. They are preaching division, and they are not selling him. They are not providing room for people from other places to supp...",
+          "platform": "nairaland",
+          "score": -0.7868,
+          "date": "2026-01-25 08:34:00"
+        },
+        {
+          "text": "Christmyhope : I have told you many times that your Atiku will be put to shame in 2027 because there's no pathway to victory even with Peter obi as his vice- president. So no any of your family member...",
+          "platform": "nairaland",
+          "score": -0.7611,
+          "date": "2026-01-12 15:40:00"
+        },
+        {
+          "text": "Femmymata2 : It is really tough to follow a visionless, directionless and hopeless leader like Peter obi in the words of Kenneth okonkwo. No wonder Abia governor Dr Alex otti refused to follow him to ...",
+          "platform": "nairaland",
+          "score": -0.7409,
+          "date": "2026-01-07 22:46:00"
+        },
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 126
+        },
+        {
+          "theme": "atiku",
+          "count": 86
+        },
+        {
+          "theme": "wike",
+          "count": 83
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "party",
+          "count": 76
+        },
+        {
+          "theme": "governor",
+          "count": 71
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "ticket",
+          "count": 63
+        },
+        {
+          "theme": "presidential",
+          "count": 61
+        },
+        {
+          "theme": "south",
+          "count": 61
+        },
+        {
+          "theme": "because",
+          "count": 46
+        },
+        {
+          "theme": "man",
+          "count": 43
+        },
+        {
+          "theme": "president",
+          "count": 42
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 42,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 3,
+            "strength": "strong"
+          },
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "women",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "diaspora",
+            "mentions": 1,
+            "strength": "weak"
+          },
+          {
+            "category": "business",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 15
+          },
+          {
+            "region": "east",
+            "mentions": 14
+          },
+          {
+            "region": "south",
+            "mentions": 13
+          },
+          {
+            "region": "west",
+            "mentions": 13
+          },
+          {
+            "region": "central",
+            "mentions": 3
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 42
+    },
+    {
+      "name": "Rabiu Kwankwaso",
+      "state": "Kano",
+      "mention_count": 11,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.3262,
+        "positive_pct": 0.0,
+        "negative_pct": 54.5,
+        "neutral_pct": 45.5,
+        "total_analyzed": 11
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.3262,
+          "count": 11,
+          "positive_pct": 0.0,
+          "negative_pct": 54.5
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Yesterday someone said what Yusuf did to Kwankwaso was unfair, my response was, \"is Kano the inheritance of Rabiu Kwankwaso?\" People need to understand that the concept of godfatherism in politics is ...",
+          "platform": "nairaland",
+          "score": -0.6823,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Yesterday someone said what Yusuf did to Kwankwaso was unfair, my response was, \"is Kano the inheritance of Rabiu Kwankwaso?\" People need to understand that the concept of godfatherism in politics is ...",
+          "platform": "nairaland",
+          "score": -0.6823,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "TonyeBarcanista : Yesterday someone said what Yusuf did to Kwankwaso was unfair, my response was, \"is Kano the inheritance of Rabiu Kwankwaso?\" People need to understand that the concept of godfatheri...",
+          "platform": "nairaland",
+          "score": -0.617,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "TonyeBarcanista : Yesterday someone said what Yusuf did to Kwankwaso was unfair, my response was, \"is Kano the inheritance of Rabiu Kwankwaso?\" People need to understand that the concept of godfatheri...",
+          "platform": "nairaland",
+          "score": -0.617,
+          "date": "2026-01-24 22:54:00"
+        },
+        {
+          "text": "Kwankwaso and NNPP reach is limited to Kano and it is not pragmatic for them to remain as NNPP. Kwankwaso was holding out for VP position and this is proving difficult for APC. The question is should ...",
+          "platform": "nairaland",
+          "score": -0.495,
+          "date": "2026-01-24 22:54:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "governor",
+          "count": 60
+        },
+        {
+          "theme": "kano",
+          "count": 39
+        },
+        {
+          "theme": "yusuf",
+          "count": 37
+        },
+        {
+          "theme": "state",
+          "count": 27
+        },
+        {
+          "theme": "political",
+          "count": 24
+        },
+        {
+          "theme": "nnpp",
+          "count": 24
+        },
+        {
+          "theme": "party",
+          "count": 22
+        },
+        {
+          "theme": "apc",
+          "count": 19
+        },
+        {
+          "theme": "abba",
+          "count": 16
+        },
+        {
+          "theme": "musa",
+          "count": 13
+        },
+        {
+          "theme": "governorship",
+          "count": 13
+        },
+        {
+          "theme": "ways",
+          "count": 12
+        },
+        {
+          "theme": "remain",
+          "count": 12
+        },
+        {
+          "theme": "support",
+          "count": 12
+        },
+        {
+          "theme": "house",
+          "count": 12
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 11,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "urban",
+            "mentions": 3,
+            "strength": "strong"
+          },
+          {
+            "category": "rural",
+            "mentions": 2,
+            "strength": "moderate"
+          },
+          {
+            "category": "youth",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "local government",
+            "mentions": 2
+          },
+          {
+            "region": "north",
+            "mentions": 1
+          },
+          {
+            "region": "south",
+            "mentions": 1
+          },
+          {
+            "region": "central",
+            "mentions": 1
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 11
+    },
+    {
+      "name": "Goodluck Jonathan",
+      "state": "Kano",
+      "mention_count": 14,
+      "platforms_found": [
+        "nairaland"
+      ],
+      "sentiment": {
+        "overall_score": -0.3464,
+        "positive_pct": 0.0,
+        "negative_pct": 53.8,
+        "neutral_pct": 46.2,
+        "total_analyzed": 13
+      },
+      "platform_breakdown": {
+        "nairaland": {
+          "score": -0.3464,
+          "count": 13,
+          "positive_pct": 0.0,
+          "negative_pct": 53.8
+        }
+      },
+      "top_positive_excerpts": [],
+      "top_negative_excerpts": [
+        {
+          "text": "Of course comprehension is not one of your strong points. If you read that write up and you still came up with this, it will be hard for me to come to your aid/ Ironically, most of the people in this ...",
+          "platform": "nairaland",
+          "score": -0.7301,
+          "date": "2026-01-07 17:44:00"
+        },
+        {
+          "text": "Denalarian : This man just read Law to intimidate.. that's why he put his wife as his 2IC to cleanup.. very rugged street guy you see here.. Thankfully every rugged street guy has a limit. By God’s gr...",
+          "platform": "nairaland",
+          "score": -0.7133,
+          "date": "2026-01-07 02:27:00"
+        },
+        {
+          "text": "9jatriot : Exactly. Going by antecedence alone, only a person not very wise will choose Fubara over Wike if those are the only 2 options available. Tambuwas used to be the face of treachery but I thin...",
+          "platform": "nairaland",
+          "score": -0.6743,
+          "date": "2026-01-07 17:44:00"
+        },
+        {
+          "text": "callthefred : Like the one you offered as governor of Sokoto or as speaker that frustrated GEJ out of office. The only legacy you have Sir is the U.S. bombing your district where terrorists have settl...",
+          "platform": "nairaland",
+          "score": -0.63,
+          "date": "2026-01-14 06:00:00"
+        },
+        {
+          "text": "algomachine : Nice. Get the evil APC out by all means. All hands must be on deck to rescue this country from looters, bandits, advanced borrowers and future mortgagers, evil tribalists and serial drug...",
+          "platform": "nairaland",
+          "score": -0.6159,
+          "date": "2026-01-14 09:06:00"
+        }
+      ],
+      "key_themes": [
+        {
+          "theme": "pdp",
+          "count": 126
+        },
+        {
+          "theme": "wike",
+          "count": 83
+        },
+        {
+          "theme": "committee",
+          "count": 80
+        },
+        {
+          "theme": "atiku",
+          "count": 73
+        },
+        {
+          "theme": "zoning",
+          "count": 71
+        },
+        {
+          "theme": "south",
+          "count": 62
+        },
+        {
+          "theme": "ticket",
+          "count": 61
+        },
+        {
+          "theme": "presidential",
+          "count": 53
+        },
+        {
+          "theme": "party",
+          "count": 52
+        },
+        {
+          "theme": "governor",
+          "count": 45
+        },
+        {
+          "theme": "man",
+          "count": 44
+        },
+        {
+          "theme": "lobbied",
+          "count": 40
+        },
+        {
+          "theme": "running",
+          "count": 40
+        },
+        {
+          "theme": "president",
+          "count": 38
+        },
+        {
+          "theme": "mate",
+          "count": 30
+        }
+      ],
+      "demographic_insights": {
+        "platform_audience": {
+          "nairaland": {
+            "posts": 13,
+            "share_pct": 100.0
+          }
+        },
+        "support_indicators": [
+          {
+            "category": "religious",
+            "mentions": 1,
+            "strength": "weak"
+          }
+        ],
+        "regional_mentions": [
+          {
+            "region": "north",
+            "mentions": 11
+          },
+          {
+            "region": "south",
+            "mentions": 11
+          },
+          {
+            "region": "west",
+            "mentions": 11
+          },
+          {
+            "region": "east",
+            "mentions": 10
+          },
+          {
+            "region": "lga",
+            "mentions": 1
+          }
+        ]
+      },
+      "engagement": {
+        "total_likes": 0,
+        "total_shares": 0,
+        "avg_likes": 0.0
+      },
+      "post_count": 13
+    }
+  ]
+}
